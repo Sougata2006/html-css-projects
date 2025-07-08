@@ -1,0 +1,48 @@
+*{
+    box-sizing :border-box;
+}
+body{
+    background-color: bisque;
+    margin: 0px;
+}
+header{
+    text-align: center;
+    background-color: hsl(30, 4%, 51%);
+    padding: 20px;
+}
+.navbar{
+    background-color: hsl(30, 3%, 13%);
+    color: white;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+aside{
+    width: 20%;
+    padding: 10px;
+    float: left;
+}
+section{
+    width: 40%;
+    padding: 10px;
+    float: left;
+}
+article{
+    width: 40%;
+    padding: 10px;
+    float: left;
+}
+footer{
+    display: block;
+    text-align: center;
+    clear: both;
+    background-color: hsl(30, 4%, 51%);
+    padding: 10px;
+}
+
+/*This stuff is for mobile devies  &  This is also called as resposive css*/
+@media screen and (max-width:600px){
+    aside , section , article{
+        width: 100%;
+    }
+}
