@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+}
+.dropdown{
+    display: inline-block;
+}
+.dropdown a{
+    display: block;
+    padding: 4px 10px;
+    text-decoration: none;
+    background-color: brown;
+    color: black;
+    width: 80px;
+}
+.dropdown button{
+    background-color: burlywood;
+    height: 40px;
+    width: 80px;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown .content{
+    display: none;
+    position: absolute;
+}
+.dropdown:hover .content{
+    display: block;
+}
+.dropdown a:hover{
+    background-color: rgb(87, 16, 16);
+}
+.dropdown:hover button{
+    background-color: rgb(132, 110, 81);
+}
