@@ -13,4 +13,4 @@ This repository contains my small practice projects using only HTML and CSS.
 To practice and share clean, semantic HTML and modern CSS layouts.
 
 ## License
-MIT
+MIT LICENSE 
