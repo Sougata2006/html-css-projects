@@ -8,6 +8,7 @@ This repository contains my small practice projects using only HTML and CSS.
 - Responsive landing page
 - Newsletter signup form
 - Pricing table
+- And many more
 
 ## Purpose
 To practice and share clean, semantic HTML and modern CSS layouts.
