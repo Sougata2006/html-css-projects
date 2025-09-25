@@ -10,8 +10,5 @@ This repository contains my small practice projects using only HTML and CSS.
 - Pricing table
 - And many more
 
-## Purpose
-To practice and share clean, semantic HTML and modern CSS layouts.
-
 ## License
 MIT LICENSE 
