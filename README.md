@@ -8,6 +8,7 @@ This repository contains my small practice projects using only HTML and CSS.
 - Responsive landing page
 - Newsletter signup form
 - Pricing table
+- Index
 - And many more
 
 ## License
