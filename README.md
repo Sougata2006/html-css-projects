@@ -10,6 +10,3 @@ This repository contains my small practice projects using only HTML and CSS
 - Pricing table
 - Index
 - And many more
-
-## License
-MIT LICENSE 
