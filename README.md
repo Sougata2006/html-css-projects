@@ -9,4 +9,3 @@ This repository contains my small practice projects using only HTML and CSS
 - Newsletter signup form
 - Pricing table
 - Index
-- And many more
