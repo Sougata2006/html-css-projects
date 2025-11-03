@@ -1,0 +1,17 @@
+body{
+    background-color: #bda07a;
+}
+div{
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 100px;
+    display: block;
+    visibility: hidden;
+}
+span{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display: block
+    
+}
