@@ -1,5 +1,5 @@
 # HTML & CSS Projects
 
-This repository contains my small practice projects using only HTML and CSS
+This repository contains my small practices using only HTML and CSS
 
 
